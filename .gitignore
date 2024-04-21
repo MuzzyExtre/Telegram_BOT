@@ -1,0 +1,4 @@
+/venv
+.gitingore
+.env
+.env.example
